@@ -1,0 +1,5 @@
+I2C: MCP23017
+IOW: 40
+OS:  Windows
+PL:  C++
+IDE: MS VC++ 2008
